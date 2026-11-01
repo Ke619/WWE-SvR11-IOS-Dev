@@ -1,13 +1,16 @@
 # WWE SmackDown vs. Raw 2011 — iOS Port (Experimental)
 
-⚠️ **Looking for the main project?**
+> [!WARNING]
+> **This is an experimental repository!**
+>
+> This repository is intended for personal experiments, testing, and development. It is not the main or stable version of the project.
 
-This repository is dedicated to personal experiments, testing, and development. It is **not the main or stable repository** intended for public use.
+> [!IMPORTANT]
+> **Looking for the main project?**
+>
+> If you're here to download, follow development, or check out the stable public version, please visit:
+>
+> 👉 **[WWE SvR11 iOS – Main Repository](https://github.com/Ke619/WWE-SvR11-IOS)**
 
-For the latest stable version, project updates, and the main release, please visit:
-
-### 👉 [WWE SvR11 iOS – Main Repository](https://github.com/Ke619/WWE-SvR11-IOS)
-
-Feel free to explore this experimental repository, but if you're here to follow the project or use its public releases, the main repository is where you should be.
-
-Thanks for checking out the project!
+> [!NOTE]
+> This repository will continue to serve as a testing and experimentation space. Thanks for your interest in the project!
