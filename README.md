@@ -1,4 +1,4 @@
-# WWE SmackDown! vs. Raw 2011 – iOS Recomp (Experimental)
+# WWE SmackDown vs. Raw 2011 — iOS Port (Experimental)
 
 ⚠️ **Looking for the main project?**
 
