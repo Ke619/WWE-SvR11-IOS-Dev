@@ -15,6 +15,3 @@
 > If you're here to download, follow development, or check out the stable public version, please visit:
 >
 > 👉 **[WWE SvR11 iOS – Main Repository](https://github.com/Ke619/WWE-SvR11-IOS)**
-
-> [!NOTE]
-> This repository will continue to serve as a testing and experimentation space. Thanks for your interest in the project!
