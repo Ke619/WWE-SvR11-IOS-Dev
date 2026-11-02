@@ -1,5 +1,9 @@
 <h1 align="center">WWE SmackDown vs. Raw 2011 — iOS Port (Experimental)</h1>
 
+<p align="center">
+  <img src="Banner.png" width="350">
+</p>
+
 > [!WARNING]
 > **This is an experimental repository!**
 >
