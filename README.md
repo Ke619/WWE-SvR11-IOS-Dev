@@ -7,7 +7,7 @@
 > [!WARNING]
 > **This is an experimental repository!**
 >
-> This repository is intended for personal experiments, testing, and development. It is not the main or stable version of the project.
+> This repository is intended for personal experiments, testing, and development.
 
 > [!IMPORTANT]
 > **Looking for the main project?**
