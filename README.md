@@ -12,6 +12,6 @@
 > [!IMPORTANT]
 > **Looking for the main project?**
 >
-> If you're here to download, follow development, or check out the stable public version, please visit:
+> If you're here to download releases, follow development, or check out the main project's repository, please visit:
 >
 > 👉 **[WWE SvR11 iOS – Main Repository](https://github.com/Ke619/WWE-SvR11-IOS)**
